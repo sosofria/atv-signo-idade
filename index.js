@@ -14,3 +14,8 @@ const pool = new Pool({
     port: 5432
 });
 
+const idade(dataNascimento){
+    const hoje = new Date();
+    
+}
+
