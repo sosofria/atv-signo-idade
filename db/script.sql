@@ -12,6 +12,5 @@ CREATE TABLE nomes (
     idade INTEGER NOT NULL,
     signo VARCHAR(20) NOT NULL,
     datanascimento DATE NOT NULL,
-    status VARCHAR(20) NOT NULL,
     sexo VARCHAR(10) NOT NULL
 );
